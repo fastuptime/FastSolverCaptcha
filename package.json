@@ -1,0 +1,21 @@
+{
+  "name": "fastsolvercaptcha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "FastUptime & Can",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "express": "^4.18.2",
+    "jimp": "^0.22.10",
+    "jsdom": "^22.1.0",
+    "pngjs": "^7.0.0",
+    "tesseract.js": "^4.1.2",
+    "uuid": "^9.0.1"
+  }
+}
